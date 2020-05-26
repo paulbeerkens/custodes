@@ -1,0 +1,6 @@
+[submodule "external/WebServer"]
+	path = external/WebServer
+	url = https://github.com/paulbeerkens/libWebServer.git
+[submodule "external/Logger"]
+	path = external/Logger
+	url = https://github.com/paulbeerkens/Logger.git
